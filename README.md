@@ -1,6 +1,6 @@
 # Atividade Jython — Integração Python e Java
 
-Atividade da disciplina de Programação, sobre interoperabilidade entre linguagens que rodam na mesma plataforma de execução (JVM). O objetivo foi explorar o Jython, que permite usar classes Java diretamente em código Python.
+Atividade da disciplina de Paradigma de Linguagens de Programação, sobre interoperabilidade entre linguagens que rodam na mesma plataforma de execução (JVM). O objetivo foi explorar o Jython, que permite usar classes Java diretamente em código Python.
 
 ## 📌 O que é o Jython?
 
@@ -80,7 +80,7 @@ Esse comando builda a imagem e roda os dois exemplos em sequência, imprimindo a
 
 ## 🎥 Vídeo explicativo
 
-Vídeo mostrando o funcionamento do projeto e a integração entre Python e Java:
+Vídeo mostrando o funcionamento da atividade e a integração entre Python e Java:
 
 - **YouTube:** [Assista aqui](https://youtu.be/CFJlo0bWla4)
 - **Google Drive:** [Assista aqui](https://drive.google.com/file/d/1mDzDUx_27VweaOlXooxq-xHa6QLGfxIP/view?usp=drive_link)
